@@ -1,0 +1,23 @@
+{
+    "id": "rot-score-card",
+    "title": "Карточки совета для приключения \"Пробуждение Тиамат\"",
+    "version": "1",
+    "compatibility": {
+        "minimum": "11",
+        "verified": "11"
+    },
+    "languages": [
+        {
+            "lang": "ru",
+            "name": "Russian",
+            "path": "languages/ru.json",
+            "flags": {}
+        }
+    ],
+    "styles": [
+        "style.css"
+    ],
+    "esmodules": [
+        "module.js"
+    ]
+}
