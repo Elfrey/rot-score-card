@@ -19,5 +19,8 @@
     ],
     "esmodules": [
         "module.js"
-    ]
+    ],
+    "url": "https://github.com/Elfrey/rot-score-card/raw/main/rot-score-card.zip",
+    "manifest": "https://github.com/Elfrey/rot-score-card/raw/main/module.json",
+    "download": "https://github.com/Elfrey/rot-score-card/raw/main/rot-score-card.zip"
 }
